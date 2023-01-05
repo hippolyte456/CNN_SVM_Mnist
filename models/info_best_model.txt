@@ -1,0 +1,1 @@
+1stConv-{'kernel1': 3, 'kernel2': 3, 'nb_channel1': 8, 'nb_channel2': 16, 'pooling': <class 'torch.nn.modules.pooling.AvgPool2d'>}{'kernel1': 3, 'kernel2': 3, 'nb_channel1': 8, 'nb_channel2': 16, 'pooling': <class 'torch.nn.modules.pooling.AvgPool2d'>}12.214285714285714
